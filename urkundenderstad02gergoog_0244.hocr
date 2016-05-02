@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./urkundenderstad02gergoog_0244.png"; bbox 0 0 2909 4800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2299 1505 2807 1522">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2299 1505 2807 1522">
+     <span class='ocr_line' id='line_1_1' title="bbox 2299 1505 2807 1522; baseline 0 3278"><span class='ocrx_word' id='word_1_1' title='bbox 2299 1505 2807 1522; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 100 0 1809 4247">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 100 0 1809 4247">
+     <span class='ocr_line' id='line_1_2' title="bbox 100 0 1809 4247; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 100 0 1809 4247; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1764 4178 2806 4213">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1764 4178 2806 4213">
+     <span class='ocr_line' id='line_1_3' title="bbox 1764 4178 2806 4213; baseline 0.03 -46"><span class='ocrx_word' id='word_1_3' title='bbox 1764 4178 1903 4190; x_wconf 20' lang='lat'>„⁷³</span> <span class='ocrx_word' id='word_1_4' title='bbox 2294 4194 2378 4197; x_wconf 16' lang='lat'>⁷7</span> <span class='ocrx_word' id='word_1_5' title='bbox 2548 4185 2582 4191; x_wconf 61' lang='lat'><em>„</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2738 4192 2806 4213; x_wconf 38' lang='lat' dir='ltr'><em>z</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1911 4487 2792 4740">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1911 4487 2801 4740">
+     <span class='ocr_line' id='line_1_4' title="bbox 1911 4487 2792 4740; baseline 0.01 -172"><span class='ocrx_word' id='word_1_7' title='bbox 1911 4534 2077 4577; x_wconf 65' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_8' title='bbox 2095 4535 2138 4577; x_wconf 67' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_9' title='bbox 2152 4487 2792 4740; x_wconf 54' lang='grc' dir='ltr'>(30οΫ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
